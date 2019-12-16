@@ -1,0 +1,1 @@
+# lojacal-ados
